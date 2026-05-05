@@ -1,0 +1,9 @@
+# 📄 requirements.txt
+
+~ tensorflow
+~ numpy
+~ pandas
+~ matplotlib
+~ pillow
+~ flask
+~ tqdm
