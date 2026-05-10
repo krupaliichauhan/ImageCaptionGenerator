@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model files
+*.h5
+*.pkl
+
+# Dataset
+data/Flickr8k_Dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
