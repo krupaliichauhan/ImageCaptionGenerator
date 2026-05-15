@@ -92,6 +92,22 @@ Contains:
 4) Convert text into sequences
 5) Train LSTM model
 6) Generate captions for unseen images
+--------------------------
+
+🧪 Model Output
+
+Feature Vector Shape: (1, 2048)
+Vocabulary Size: 8781
+Maximum Caption Length: 37
+--------------------------
+
+🚀 Future Improvements
+
+Attention Mechanism
+Transformer-based captioning
+Beam Search decoding
+Better UI using Flask/React
+Deployment on AWS
 
 --------------------------
 👩‍💻 Author
